@@ -1,0 +1,10 @@
+C:\Users\micha\Desktop\LayWork\Wrap\Wraper\bin\x64\Debug\netstandard2.0\Wrapper.deps.json
+C:\Users\micha\Desktop\LayWork\Wrap\Wraper\bin\x64\Debug\netstandard2.0\Wrapper.dll
+C:\Users\micha\Desktop\LayWork\Wrap\Wraper\bin\x64\Debug\netstandard2.0\Wrapper.pdb
+C:\Users\micha\Desktop\LayWork\Wrap\Wraper\obj\x64\Debug\netstandard2.0\Wrapper.csproj.AssemblyReference.cache
+C:\Users\micha\Desktop\LayWork\Wrap\Wraper\obj\x64\Debug\netstandard2.0\Wrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Desktop\LayWork\Wrap\Wraper\obj\x64\Debug\netstandard2.0\Wrapper.AssemblyInfoInputs.cache
+C:\Users\micha\Desktop\LayWork\Wrap\Wraper\obj\x64\Debug\netstandard2.0\Wrapper.AssemblyInfo.cs
+C:\Users\micha\Desktop\LayWork\Wrap\Wraper\obj\x64\Debug\netstandard2.0\Wrapper.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\LayWork\Wrap\Wraper\obj\x64\Debug\netstandard2.0\Wrapper.dll
+C:\Users\micha\Desktop\LayWork\Wrap\Wraper\obj\x64\Debug\netstandard2.0\Wrapper.pdb
